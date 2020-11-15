@@ -19,7 +19,7 @@ dependencies {
     }
 }
 
-def webappDir = "C:/project/front-test/my-app"
+def webappDir = "C:/Users/park_/IdeaProjects/my-app"
 
 sourceSets {
     main {
